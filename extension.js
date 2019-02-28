@@ -28,7 +28,7 @@ function activate(context) {
 			"That thing you just did was epic.",
 			"You can't see you right now but you are looking code cool.",
 			"That line right there is tasty.",
-			"Your hear to kick code ass and chew gum. And you are all out of gum.",
+			"You're here to kick code ass and chew gum. And you are all out of gum.",
 			"Now to say that code block isn't good thats a crime."
 		]
 		var emojiArray = [

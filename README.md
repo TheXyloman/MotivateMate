@@ -10,6 +10,12 @@ More Info coming soon.
 
 Initial Release! 
 
+### 0.0.2
+
+Fixed Spelling Errors on a motivating message. 
+
 ### 0.0.1
 
 Initial release of Motivating Mate. 
+
+
